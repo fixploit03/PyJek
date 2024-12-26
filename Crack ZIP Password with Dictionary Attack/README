@@ -3,6 +3,10 @@ Program python sederhana untuk meng-crack file ZIP
 
 Program ini menggunakan teknik Dictionary Attack dimana jika tidak ada kata sandi didalam file Wordlist maka tidak bisa untuk meng-crack file ZIP
 
+Persyaratan
+-----------
+pyzipper
+
 Disclaimer
 ----------
 
